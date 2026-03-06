@@ -1,0 +1,1 @@
+﻿Console.WriteLine("Del 1 al 50");
